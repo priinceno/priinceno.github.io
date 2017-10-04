@@ -1,4 +1,12 @@
 body{
-  background-image: url("https://i.imgur.com/28DLVOk.jpg");
+  background-image: url("https://i.imgur.com/RikeEPg.gif");
 }
-h1,h2{font-family: monospace;}
+img{
+  display:block;
+  margin: auto;
+  max-width: 250px;
+}
+h1,h2{
+  font-family: monospace;
+  text-align: center;
+}
