@@ -3,9 +3,10 @@ body{
 }
 img{
   display:block;
-  max-width: 150px;
+  margin: auto;
+  max-width: 250px;
 }
 h1,h2{
   font-family: monospace;
-  text-align: left;
+  text-align: center;
 }
